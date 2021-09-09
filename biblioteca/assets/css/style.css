@@ -1,0 +1,21 @@
+.carousel-inner{
+  height: 550px;
+  margin: auto;
+
+}
+
+body{
+  background: #721616;
+}
+
+.logoIF img {
+  border-radius: 100%;
+
+  padding: 100px;
+}
+
+.teste {
+  width: 199px;
+  height: 200px;
+  background: red;
+}

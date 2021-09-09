@@ -1,0 +1,9 @@
+div.image-preview {
+  width: 120px;
+  height: 120px;
+  background: rgba(209, 209, 209, 0.116);
+}
+
+img.image-preview {
+  height: 120px;
+}

@@ -1,0 +1,8 @@
+[ ] carregar imagem antiga ao editar cadastro
+[x] nao permitir usuários com o mesmo email
+[ ] verificar tamanho foto upload
+[ ] enxugar código
+[-] detalhar mensagens de erro (exemplo ao apagar autora que tem obra cadastrada)
+[x] nao permitir excluir usuario logado
+[ ] emitir mensagem caso dropdowns não estejam populado
+[ ] se detalhes.php?id= inválido, redirecionar
